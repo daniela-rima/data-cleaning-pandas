@@ -2,5 +2,6 @@
 ## Two Hashtags for Headings
 ### Three Hashtags for Sections within the Headings
 #### The MAX Number of Hashtags to get Ingo in BOLD
-##### Check Previous Info.
-###### Six Hashtags... what happens?
+##### Check Previous Info... it actually kept going with bold but smaller font size
+###### Six Hashtags... what happens? Changes color to faded grey!
+####### Seven Hashtags...
